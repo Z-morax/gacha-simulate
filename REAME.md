@@ -20,6 +20,6 @@
 使用 Godot 4.2 或更高版本打开项目即可。
 
 截图：
-![游戏截图1]<img width="911" height="581" alt="屏幕截图 2026-03-18 200935" src="https://github.com/user-attachments/assets/2ceaf35b-33f1-4eb9-ae92-4e823ee104b3" />
+[游戏截图1]<img width="911" height="581" alt="屏幕截图 2026-03-18 200935" src="https://github.com/user-attachments/assets/2ceaf35b-33f1-4eb9-ae92-4e823ee104b3" />
 
-![游戏截图2]<img width="831" height="496" alt="屏幕截图 2026-03-18 201043" src="https://github.com/user-attachments/assets/27ef03db-711c-4519-b033-aa3bc7204b5b" />
+[游戏截图2]<img width="831" height="496" alt="屏幕截图 2026-03-18 201043" src="https://github.com/user-attachments/assets/27ef03db-711c-4519-b033-aa3bc7204b5b" />
